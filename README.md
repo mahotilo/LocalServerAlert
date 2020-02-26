@@ -1,7 +1,10 @@
 # [LocalServerAlert](https://github.com/mahotilo/LocalServerAlert) - Local Server Alert plugin for Typesetter CMS
 
 ## About
-Change Admin Panel background color and add icon to alert that the site is run on a local server or on an online web server
+Being focused on CMS controls, it is easy to get confused which version of the site you are editing at the moment. 
+The LocalServerAlert plugin makes it easy to distinguish between a version of a site hosted on a local web server and a version hosted on an online web server.
+The plugin changes Admin Panel background color and add icons to alert that the site is run on a local server.
+
 
 ## See also 
 * [Typesetter Home](http://www.typesettercms.com)
