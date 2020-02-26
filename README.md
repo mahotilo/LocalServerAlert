@@ -24,7 +24,7 @@ Change Admin Panel background color and add icon to alert that the site is run o
 ![image](demo/local.png)
 
 ### Online web server
-![image](demo/omline.png)
+![image](demo/online.png)
 
 ## License
 GPL 2, for bundled thirdparty components see the respective subdirectories.
