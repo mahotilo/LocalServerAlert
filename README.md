@@ -7,8 +7,6 @@ Change Admin Panel background color and add icon to alert that the site is run o
 * [Typesetter Home](http://www.typesettercms.com)
 * [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
-## Current Version 
-1.1
 
 ## Requirements
 * Typesetter CMS
@@ -28,3 +26,7 @@ Change Admin Panel background color and add icon to alert that the site is run o
 
 ## License
 GPL 2, for bundled thirdparty components see the respective subdirectories.
+
+## Current Version 
+1.2
+	- checking also $_SERVER['REMOTE_ADDR'] to detect online server
