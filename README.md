@@ -27,6 +27,6 @@ Change Admin Panel background color and add icon to alert that the site is run o
 ## License
 GPL 2, for bundled thirdparty components see the respective subdirectories.
 
-## Current Version 
+## Version history
 1.2
 	- checking also $_SERVER['REMOTE_ADDR'] to detect online server
